@@ -1,0 +1,16 @@
+Source of observation data : https://planetarycomputer.microsoft.com/dataset/era5-pds and visit the website to see how to cite it.
+Source of future climate projections: https://planetarycomputer.microsoft.com/dataset/cil-gdpcir-cc-by and visit the website to see how to cite it.
+
+
+*Resample folder : contains post-process historical temperatature and precipitation data as well as projection up to end of the century (2100)
+*Output folder for CMIP6 + ERA5: Contains output graphs that can be useful for your analysis mainly from ERA5 and CMIP6 (Python script)
+*Output from MET service: Contains all outpust from post-process in R software.
+
+
+In term of outputs : 
+ - Historical and future trend (annually, monthly) and SPI of temperature for all the stations
+ - Historical and future trend (annually, monthly) and SPI of precipitation for all the stations
+ - Multiplots are provided as well to see change of those parameters over the diferent locations
+ - Relative humidity *graphs*
+
+For any enquiries on the script please reach out to : fbagbo@gmail.com
